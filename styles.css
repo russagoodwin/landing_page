@@ -1,0 +1,36 @@
+.page-width
+{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.list-plain
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+header
+{
+    background: #1F2937;
+}
+section
+{
+    padding: 50px 10px;
+}
+.section-white
+{
+    background: #FFF;
+}
+.section-grey
+{
+    background: rgb(235, 235, 235)
+}
+.logo-row
+{
+    display: flex;
+}
+.logo-row--left
+{
+    margin-right: auto;
+    flex: 1 1 200px;
+}
